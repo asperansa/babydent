@@ -1,0 +1,1 @@
+<img src="<?=DEFAULT_TEMPLATE_PATH?>/images/logo.png"  />

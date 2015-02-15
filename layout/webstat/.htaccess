@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/babydent.pr-24.ru/webstat"
+AuthUserFile /var/www/user1561474/data/etc/19009642.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

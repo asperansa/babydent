@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Акции", 
+		"shares/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отзывы", 
+		"reviews/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вопрос-ответ", 
+		"faq/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

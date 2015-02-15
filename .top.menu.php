@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О клинике", 
+		"about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Услуги", 
+		"services/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Цены", 
+		"prices/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Для мам", 
+		"mothers/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Врачи", 
+		"doctors/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
